@@ -55,7 +55,7 @@ v2 的构想是基于我多年在云原生领域，特别是在 K8s 和 ServiceM
 
 ## 文档
 
-完整文档已经迁移至 [https://gofrp.org](https://gofrp.org/docs)。
+完整文档已经迁移至 [https://gofrp.org](https://gofrp.org/zh-cn)。
 
 ## 为 frp 做贡献
 
